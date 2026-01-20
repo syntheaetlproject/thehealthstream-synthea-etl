@@ -17,7 +17,7 @@ This guide walks you through setting up **Power BI Desktop** to query data direc
 
 1. Download and install Power BI Desktop from:  
      https://powerbi.microsoft.com/desktop/
-2. Open Power BI and sign in with your Microsoft account.
+2. Then open Power BI and sign in with your Microsoft account.
 
 ---
 
