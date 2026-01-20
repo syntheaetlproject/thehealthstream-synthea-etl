@@ -38,7 +38,7 @@ def lambda_handler(event, context):
                 print("File is in the 'datasource/' folder.")
 
                 if s3_object_key.endswith(".csv"):
-                    print("File ends with .csv — valid file type.")
+                    print("File ends with .csv — valid file type..")
 
                     try:
                         print("Attempting to start Glue job...")
