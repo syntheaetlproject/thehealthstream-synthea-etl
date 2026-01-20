@@ -58,7 +58,7 @@ def list_date_folders(bucket, prefix):
             prefixes.add(folder)
     return sorted(prefixes)
 
-#FUNCTION TO GET FILES INSIDE INPUT FOLDER
+#FUNCTION TO GET FILES INSIDE INPUT Folder
 def list_csv_files(bucket, prefix):
     paginator = s3.get_paginator('list_objects_v2')
     files = []
