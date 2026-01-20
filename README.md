@@ -33,7 +33,7 @@ The primary objective of this project is to convert raw synthetic data into clea
    Athena allows serverless SQL querying on the Parquet files, enabling the creation of flexible, business-focused data marts.
 
 5. **Reporting with PowerBI**  
-   PowerBI connects to Athena for interactive dashboards and real-time business intelligence insights.
+   PowerBI connects to Athena for interactive dashboards & real-time business intelligence insights.
 
 ## Architecture Components
 
